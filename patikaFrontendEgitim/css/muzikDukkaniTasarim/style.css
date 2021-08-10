@@ -1,0 +1,17 @@
+#anasayfa_id{
+    color: purple;
+    text-align: center;
+}
+
+#baslik_id{
+    color: red;
+    text-align: center;
+}
+
+#liste_id{
+    align-items: center;
+}
+.container{
+    align-items: center;
+        flex-direction: column;
+}
