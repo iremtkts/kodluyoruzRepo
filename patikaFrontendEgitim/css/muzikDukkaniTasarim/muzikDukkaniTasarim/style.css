@@ -1,0 +1,36 @@
+h2{
+    color: purple;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: sandybrown;
+}
+.container{
+    margin-left: auto;
+        margin-right: auto;
+        width:960px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+}
+.about_class{
+    text-align: center;
+}
+.product_class{
+    margin-bottom: 30%;
+}
+#product_title{
+    color: slateblue;
+}
+
+#figcaption_id{
+    text-align: center;
+}
