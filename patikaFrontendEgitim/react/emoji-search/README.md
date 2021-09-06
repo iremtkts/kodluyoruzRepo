@@ -1,3 +1,13 @@
+Changed App.test codes  
+
+
+
+
+
+
+
+
+
 Emoji Search
 ---
 
